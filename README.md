@@ -1,1 +1,2 @@
 # Loan-Tracking-disbursement-Dashboard
+The Loan Tracking & Disbursement Analysis dashboard, created using PowerBI, provides a comprehensive overview of loan-related data for a bank. The dashboard includes key metrics such as the total loan requested amount, disbursed amount, and sanctioned amount across different years (2021, 2022, 2023). It also breaks down the data by customer profile (self-employed vs. salaried) and product category.
